@@ -1,92 +1,111 @@
-<!-- ==================== HERO SECTION ==================== -->
+<!-- ================= HERO ================= -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=200&section=header&text=Aditya%20Patil&fontSize=45&fontColor=00C6FF&animation=fadeIn" />
-</p>
+<h1 align="center">Hi 👋, I'm Aditya Patil</h1>
 
-<h3 align="center" style="color:#00C6FF;">
-AI/ML Engineer • Autonomous Systems Builder • Full-Stack Developer
+<h3 align="center">
+AI/ML Engineer • Autonomous Systems Builder • Full-Stack Developer  
+Building Real-World Intelligent Systems
 </h3>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nadex19-adi&label=Profile%20Views&color=00C6FF&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Focus-AI%20Systems-00C6FF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Domain-Computer%20Vision-0f2027?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Goal-High%20Impact%20Engineering-203a43?style=for-the-badge" />
 </p>
 
----
-
-## 🧠 SYSTEM PHILOSOPHY
-
-I engineer intelligent systems that operate beyond controlled environments.
-
-> Real-world constraints.  
-> Optimized pipelines.  
-> Scalable architecture.  
-> Execution over aesthetics.
+<!-- SIDE GIF -->
+<img align="right" height="300" width="450" 
+src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
 
 ---
 
-## ⚙️ CORE CAPABILITIES
+## 🧠 About Me
 
-🔹 End-to-End ML Pipeline Engineering  
-🔹 Real-Time Computer Vision Systems  
-🔹 Inference Optimization & Latency Reduction  
-🔹 Backend Integration for ML APIs  
-🔹 Modular & Scalable System Design  
+- 🎓 Computer Science Engineering (AI/ML)
+- 🤖 Designing autonomous AI-driven systems  
+- ⚡ Focused on ML optimization & scalable deployment  
+- 🚀 Working toward high-impact AI engineering roles  
+- 🛠️ Interested in Industry 4.0 & high-performance systems  
 
 ---
 
-## 🚀 CURRENT BUILD ZONE
+## 🚀 What I Build
 
-- Production-oriented ML systems  
-- Model optimization & inference tuning  
+- End-to-end ML pipelines  
+- Real-time Computer Vision systems  
 - Backend-integrated ML APIs  
-- Deployment workflows (Docker / FastAPI)  
+- Performance-optimized inference systems  
 
 ---
 
-## 🛠️ TECH STACK
+# 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,java,js,react,nodejs,mongodb,mysql,git,linux,arduino&theme=dark" />
+### ⚡ Programming
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,c,java,js" />
+</p>
+
+### 🤖 AI / ML
+<p align="left">
+<img src="https://skillicons.dev/icons?i=pytorch" />
+<img src="https://cdn.worldvectorlogo.com/logos/pandas.svg" width="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50"/>
+</p>
+
+### 🌐 Backend & Web
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,mysql,tailwind" />
+</p>
+
+### 🖥️ Systems & Tools
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,linux,arduino" />
 </p>
 
 ---
 
-## 📊 ENGINEERING METRICS
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=nadex19-adi&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=nadex19-adi&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nadex19-adi&theme=tokyonight" />
+
+</div>
+
+---
+
+# 🏆 Achievements & Activity
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=nadex19-adi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f2027" />
-  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=nadex19-adi&theme=tokyonight&hide_border=true&background=0f2027" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nadex19-adi&theme=tokyonight" />
+<img src="https://github-profile-trophy.vercel.app/?username=nadex19-adi&theme=darkhub&row=1&column=6" />
 </p>
 
 ---
 
-## 🔗 NETWORK
+# 🌐 Connect With Me
+
+📫 **work.adi2119@gmail.com**
 
 <p align="center">
 <a href="https://www.linkedin.com/in/aditya-patil-77aab2352/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-00C6FF?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 <a href="mailto:work.adi2119@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-203a43?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
 
 ---
 
-## ⚡ ENGINEERING MINDSET
+# ⚡ Engineering Mindset
 
 > Build systems, not scripts.  
 > Reduce latency.  
 > Remove bottlenecks.  
-> Ship intelligently.
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:203a43,100:0f2027&height=120&section=footer"/>
-</p>
+> Ship intelligently.  
+> Scale deliberately.
